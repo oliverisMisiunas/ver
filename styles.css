@@ -23,6 +23,10 @@ a {
     align-items: center;
 }
 
+.logo-main {
+    width: 164px;
+}
+
 .saskaita-p {
     margin-top: 15px;
     font-size: 20px;
